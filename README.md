@@ -7,7 +7,7 @@ In this tutorial, we would upload our dataset into Azure Blob Storage and choose
 ## Getting Started
 
 If you only want to read the code, u can focus on 
-Part 1: predict-link-xgboost-part1-github.ipynb to understand how to call azure search api and register a model in Azure Machine Learning
+Part 1: ![predict-link-xgboost-part1-github.ipynb](https://github.com/siaodevil/azure-search-and-ml/blob/main/predict-emailservice-xgboost-part1-github.ipynb) to understand how to call azure search api and register a model in Azure Machine Learning
 Part 2: predict-link-xgboost-part2-github.ipynb to understand create a image of the model in Azure Containter Instance using Azure Machine Learning
 Part 3: predict-link-automl-github.ipynb to understand how to call automated ML using code instead of the interface available in Azure Machine Learning
 
