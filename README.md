@@ -27,5 +27,5 @@ To follow through this whole tutorial, you can start of with
 
 The architecture of this whole tutorial is as follow:
 
-<img width="888" alt="image" src="https://github.com/siaodevil/azure-search-and-ml/blob/main/architecture.png">
+<img width="666" alt="image" src="https://github.com/siaodevil/azure-search-and-ml/blob/main/architecture.png">
 
