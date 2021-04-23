@@ -26,5 +26,6 @@ To follow through this whole tutorial, you can start of with
 4. Azure Machine Learning created
 
 The architecture of this whole tutorial is as follow:
-<img width="350" alt="image" src="https://github.com/siaodevil/azure-search-and-ml/blob/main/architecture.png">
+
+<img width="888" alt="image" src="https://github.com/siaodevil/azure-search-and-ml/blob/main/architecture.png">
 
