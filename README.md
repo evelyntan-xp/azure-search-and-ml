@@ -18,9 +18,10 @@ To follow through this whole tutorial, you can start off with
 1. PDF: [Guide for Azure Search Service](https://github.com/siaodevil/azure-search-and-ml/blob/main/Guide%20for%20Azure%20Search%20Service.pdf)
   2. -- Update the api_config.json file followingly
 3. PDF: [Guide for Azure Machine Learning](https://github.com/siaodevil/azure-search-and-ml/blob/main/Guide%20for%20Azure%20Machine%20Learning.pdf)
-4. Code: predict-link-xgboost-part1-github.ipynb 
-5. Code: predict-link-xgboost-part2-github.ipynb 
-6. Code: predict-link-automl-github.ipynb (optional)
+4. -- Upload azure_search_client.py file into Azure Machine Learning Studio
+5. Code: predict-link-xgboost-part1-github.ipynb 
+6. Code: predict-link-xgboost-part2-github.ipynb 
+7. Code: predict-link-automl-github.ipynb (optional)
 
 ## Requirements to follow the tutorial
 
