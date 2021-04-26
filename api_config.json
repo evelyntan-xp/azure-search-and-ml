@@ -1,0 +1,5 @@
+{"service_name": "<search service name>", 
+    "endpoint": "https://<search service name>.search.windows.net", 
+    "api_version": "2020-06-30-preview", 
+    "api_key": "<primary admin key>", 
+    "index_name": "<demo-index>"}
