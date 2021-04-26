@@ -36,4 +36,4 @@ The architecture of this whole tutorial is as follow:
 
 
 ### Acknowledgement
-I would like to thank LeeKokHow github code to kickstart my learning into Azure Machine Learning. 
+I would like to thank [LeeKokHow github code](https://github.com/leekokhow/azureml) to kickstart my learning into Azure Machine Learning. 
